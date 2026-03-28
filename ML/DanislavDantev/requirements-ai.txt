@@ -1,0 +1,20 @@
+# Core
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Optional GPU (NVIDIA)
+cudf-cu11  # RAPIDS
+cuml-cu11   # RAPIDS
+cupy-cuda11x
+tensorflow[and-cuda]
+
+# Optional GPU (AMD ROCm)
+tensorflow-rocm
+
+# CPU ML
+xgboost
+lightgbm
+
+# Monitoring
+pynvml  # NVIDIA GPU monitoring

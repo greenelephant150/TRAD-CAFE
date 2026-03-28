@@ -1,0 +1,175 @@
+2026-03-22 16:27:48,172 - INFO - Found 87 trading pairs
+2026-03-22 16:27:48,173 - INFO - 
+[1/87] Processing AUD_CAD
+2026-03-22 16:27:48,173 - INFO - 
+============================================================
+2026-03-22 16:27:48,174 - INFO - 🏦 Training Danislav Dantev Model for AUD_CAD
+2026-03-22 16:27:48,174 - INFO - ============================================================
+2026-03-22 16:27:48,191 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:27:48,192 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:28:43,268 - ERROR - No timestamp column found in AUD_CAD data
+2026-03-22 16:28:43,655 - ERROR - Insufficient data for AUD_CAD: 0 rows
+2026-03-22 16:28:43,682 - INFO - 
+[2/87] Processing AUD_CHF
+2026-03-22 16:28:43,683 - INFO - 
+============================================================
+2026-03-22 16:28:43,683 - INFO - 🏦 Training Danislav Dantev Model for AUD_CHF
+2026-03-22 16:28:43,683 - INFO - ============================================================
+2026-03-22 16:28:43,701 - INFO - Data range: 2004-05-31 to 2026-03-12 (7956 days)
+2026-03-22 16:28:43,702 - INFO - Loading all data from 2004-05-31 to 2026-03-12...
+2026-03-22 16:29:31,471 - ERROR - No timestamp column found in AUD_CHF data
+2026-03-22 16:29:31,757 - ERROR - Insufficient data for AUD_CHF: 0 rows
+2026-03-22 16:29:31,782 - INFO - 
+[3/87] Processing AUD_HKD
+2026-03-22 16:29:31,783 - INFO - 
+============================================================
+2026-03-22 16:29:31,783 - INFO - 🏦 Training Danislav Dantev Model for AUD_HKD
+2026-03-22 16:29:31,783 - INFO - ============================================================
+2026-03-22 16:29:33,174 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:29:33,175 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:29:42,004 - WARNING - 
+⚠️ Training interrupted by user
+2026-03-22 16:32:56,231 - INFO - Found 87 trading pairs
+2026-03-22 16:32:56,232 - INFO - 
+[1/87] Processing AUD_CAD
+2026-03-22 16:32:56,232 - INFO - 
+============================================================
+2026-03-22 16:32:56,232 - INFO - 🏦 Training Danislav Dantev Model for AUD_CAD
+2026-03-22 16:32:56,233 - INFO - ============================================================
+2026-03-22 16:32:56,250 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:32:56,250 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:33:43,592 - ERROR - No timestamp column found in AUD_CAD data
+2026-03-22 16:33:44,061 - ERROR - Insufficient data for AUD_CAD: 0 rows
+2026-03-22 16:33:44,089 - INFO - 
+[2/87] Processing AUD_CHF
+2026-03-22 16:33:44,089 - INFO - 
+============================================================
+2026-03-22 16:33:44,089 - INFO - 🏦 Training Danislav Dantev Model for AUD_CHF
+2026-03-22 16:33:44,090 - INFO - ============================================================
+2026-03-22 16:33:44,107 - INFO - Data range: 2004-05-31 to 2026-03-12 (7956 days)
+2026-03-22 16:33:44,108 - INFO - Loading all data from 2004-05-31 to 2026-03-12...
+2026-03-22 16:34:31,509 - ERROR - No timestamp column found in AUD_CHF data
+2026-03-22 16:34:31,744 - ERROR - Insufficient data for AUD_CHF: 0 rows
+2026-03-22 16:34:31,771 - INFO - 
+[3/87] Processing AUD_HKD
+2026-03-22 16:34:31,771 - INFO - 
+============================================================
+2026-03-22 16:34:31,772 - INFO - 🏦 Training Danislav Dantev Model for AUD_HKD
+2026-03-22 16:34:31,772 - INFO - ============================================================
+2026-03-22 16:34:31,789 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:34:31,789 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:35:08,838 - ERROR - No timestamp column found in AUD_HKD data
+2026-03-22 16:35:09,071 - ERROR - Insufficient data for AUD_HKD: 0 rows
+2026-03-22 16:35:09,106 - INFO - 
+[4/87] Processing AUD_JPY
+2026-03-22 16:35:09,107 - INFO - 
+============================================================
+2026-03-22 16:35:09,107 - INFO - 🏦 Training Danislav Dantev Model for AUD_JPY
+2026-03-22 16:35:09,108 - INFO - ============================================================
+2026-03-22 16:35:11,034 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:35:11,036 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:35:24,214 - WARNING - 
+⚠️ Training interrupted by user
+2026-03-22 16:38:16,225 - INFO - Found 87 trading pairs
+2026-03-22 16:38:16,225 - INFO - 
+[1/87] Processing AUD_CAD
+2026-03-22 16:38:16,225 - INFO - 
+============================================================
+2026-03-22 16:38:16,226 - INFO - 🏦 Training Danislav Dantev Model for AUD_CAD
+2026-03-22 16:38:16,226 - INFO - ============================================================
+2026-03-22 16:38:16,243 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:38:16,244 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:39:07,391 - ERROR - No timestamp column found in AUD_CAD data
+2026-03-22 16:39:07,654 - ERROR - Insufficient data for AUD_CAD: 0 rows
+2026-03-22 16:39:07,681 - INFO - 
+[2/87] Processing AUD_CHF
+2026-03-22 16:39:07,682 - INFO - 
+============================================================
+2026-03-22 16:39:07,682 - INFO - 🏦 Training Danislav Dantev Model for AUD_CHF
+2026-03-22 16:39:07,682 - INFO - ============================================================
+2026-03-22 16:39:07,705 - INFO - Data range: 2004-05-31 to 2026-03-12 (7956 days)
+2026-03-22 16:39:07,706 - INFO - Loading all data from 2004-05-31 to 2026-03-12...
+2026-03-22 16:39:53,624 - ERROR - No timestamp column found in AUD_CHF data
+2026-03-22 16:39:53,829 - ERROR - Insufficient data for AUD_CHF: 0 rows
+2026-03-22 16:39:53,855 - INFO - 
+[3/87] Processing AUD_HKD
+2026-03-22 16:39:53,855 - INFO - 
+============================================================
+2026-03-22 16:39:53,855 - INFO - 🏦 Training Danislav Dantev Model for AUD_HKD
+2026-03-22 16:39:53,856 - INFO - ============================================================
+2026-03-22 16:39:53,874 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:39:53,875 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:40:34,491 - ERROR - No timestamp column found in AUD_HKD data
+2026-03-22 16:40:34,630 - ERROR - Insufficient data for AUD_HKD: 0 rows
+2026-03-22 16:40:34,650 - INFO - 
+[4/87] Processing AUD_JPY
+2026-03-22 16:40:34,651 - INFO - 
+============================================================
+2026-03-22 16:40:34,651 - INFO - 🏦 Training Danislav Dantev Model for AUD_JPY
+2026-03-22 16:40:34,652 - INFO - ============================================================
+2026-03-22 16:40:34,670 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:40:34,671 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:41:41,080 - ERROR - No timestamp column found in AUD_JPY data
+2026-03-22 16:41:41,316 - ERROR - Insufficient data for AUD_JPY: 0 rows
+2026-03-22 16:41:41,336 - INFO - 
+[5/87] Processing AUD_NZD
+2026-03-22 16:41:41,337 - INFO - 
+============================================================
+2026-03-22 16:41:41,337 - INFO - 🏦 Training Danislav Dantev Model for AUD_NZD
+2026-03-22 16:41:41,337 - INFO - ============================================================
+2026-03-22 16:41:42,367 - INFO - Data range: 2004-05-03 to 2026-03-13 (7985 days)
+2026-03-22 16:41:42,369 - INFO - Loading all data from 2004-05-03 to 2026-03-13...
+2026-03-22 16:42:14,872 - WARNING - 
+⚠️ Training interrupted by user
+2026-03-22 16:42:18,373 - INFO - Found 87 trading pairs
+2026-03-22 16:42:18,373 - INFO - 
+[1/87] Processing AUD_CAD
+2026-03-22 16:42:18,374 - INFO - 
+============================================================
+2026-03-22 16:42:18,374 - INFO - 🏦 Training Danislav Dantev Model for AUD_CAD
+2026-03-22 16:42:18,374 - INFO - ============================================================
+2026-03-22 16:42:18,392 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:42:18,393 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:43:25,084 - ERROR - No timestamp column found in AUD_CAD data
+2026-03-22 16:43:25,372 - ERROR - Insufficient data for AUD_CAD: 0 rows
+2026-03-22 16:43:25,400 - INFO - 
+[2/87] Processing AUD_CHF
+2026-03-22 16:43:25,400 - INFO - 
+============================================================
+2026-03-22 16:43:25,401 - INFO - 🏦 Training Danislav Dantev Model for AUD_CHF
+2026-03-22 16:43:25,401 - INFO - ============================================================
+2026-03-22 16:43:25,419 - INFO - Data range: 2004-05-31 to 2026-03-12 (7956 days)
+2026-03-22 16:43:25,420 - INFO - Loading all data from 2004-05-31 to 2026-03-12...
+2026-03-22 16:44:31,160 - ERROR - No timestamp column found in AUD_CHF data
+2026-03-22 16:44:31,466 - ERROR - Insufficient data for AUD_CHF: 0 rows
+2026-03-22 16:44:31,512 - INFO - 
+[3/87] Processing AUD_HKD
+2026-03-22 16:44:31,513 - INFO - 
+============================================================
+2026-03-22 16:44:31,513 - INFO - 🏦 Training Danislav Dantev Model for AUD_HKD
+2026-03-22 16:44:31,514 - INFO - ============================================================
+2026-03-22 16:44:31,532 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:44:31,533 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:44:58,714 - WARNING - 
+⚠️ Training interrupted by user
+2026-03-22 16:53:51,911 - INFO - Found 87 trading pairs
+2026-03-22 16:53:51,911 - INFO - 
+[1/87] Processing AUD_CAD
+2026-03-22 16:53:51,911 - INFO - 
+============================================================
+2026-03-22 16:53:51,911 - INFO - 🏦 Training Danislav Dantev Model for AUD_CAD
+2026-03-22 16:53:51,912 - INFO - ============================================================
+2026-03-22 16:53:51,929 - INFO - Data range: 2004-05-31 to 2026-03-13 (7957 days)
+2026-03-22 16:53:51,930 - INFO - Loading all data from 2004-05-31 to 2026-03-13...
+2026-03-22 16:54:40,529 - ERROR - No timestamp column found in AUD_CAD data
+2026-03-22 16:54:40,765 - ERROR - Insufficient data for AUD_CAD: 0 rows
+2026-03-22 16:54:40,795 - INFO - 
+[2/87] Processing AUD_CHF
+2026-03-22 16:54:40,795 - INFO - 
+============================================================
+2026-03-22 16:54:40,796 - INFO - 🏦 Training Danislav Dantev Model for AUD_CHF
+2026-03-22 16:54:40,796 - INFO - ============================================================
+2026-03-22 16:54:40,813 - INFO - Data range: 2004-05-31 to 2026-03-12 (7956 days)
+2026-03-22 16:54:40,814 - INFO - Loading all data from 2004-05-31 to 2026-03-12...
+2026-03-22 16:54:53,228 - WARNING - 
+⚠️ Training interrupted by user

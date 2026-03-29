@@ -1,0 +1,286 @@
+﻿
+Let's dive into it. So we'll call this quick win fib strategy since I am terrible at naming things. If you have better suggestions, we get to rename it later. What's the plan? In this quick win module, you'll be diving in headfirst with strategy that I use to trade.
+
+It has about, 80% win rate, especially on the higher time frames, but it can be executed on anything. I wouldn't go below 15 minutes. Things are just not consistent down on, you know, 1 minute, 5 minute charts. You'll be flying with ideas of getting funded, as soon as you see this and especially if you haven't done the funded, trader curriculum yet. However, your goal here is to focus and learn a trading strategy.
+
+We're not talking about funding in this particular model. We're just learning a strategy. So referring back to what Jonathan just told us, pace yourselves, have a long term mentality. You get the chance to, go through the entire funding trader curriculum. This is, you know, just a a very small piece of it.
+
+So I hope you're ready. Today, specifically, we'll talk about how to read the anticipated market price action, learn how to understand when a market wave ends, and when to expect the move in a different direction. You will learn to use Fibonacci sequences and their retracements, for your own advantage. You will also learn how to tell apart a pullback from a reversal and how to use that to to your advantage and, to potentially profit from. Why are we focusing on learning this now?
+
+By the end of this module, you will be able to screen the market for trade setups and execute the strategy with 80% win rate so you can make consistent profits. You will understand when to hold a winning trade a bit longer and when to have when to look to take your profits, as early as possible so you can maximize your winners. We'll also go over the basics of how the market moves, how to anticipate the direction of the next move so you can make sense of how the market moves and why. The basic idea, guys, is that this strategy works, and so it will be a powerful tool that you can use to earn money in the markets and more importantly to get funded down the road, which is the reason why you are here doing my curriculum. There's a lot that you could be focusing on.
+
+However, there's a reason why we include this within the quick win program. This module will not only teach you a trading strategy, but will also lay the foundation for analyzing the market. Without it, you will not be able to execute that particular strategy and profit from it, obviously. You may lack the foundations of price action and how to recognize the market's footsteps, and you will not be able to anticipate, market behavior and position accordingly or trade in a favorable direction. All of these outcomes are good and will help you genuinely achieve your financial goals.
+
+Imagine for a moment when what it'll be like when you can read the market as if you're looking at Google Maps. You know, when a turn might be coming ahead of time and you can prepare for it, act accordingly. Imagine the peace of mind that being able to do these things will bring to your trading once you have truly mastered them. These are the traits of a professional trader, and that is the goal towards we are working. Right?
+
+We want this this module is a key stepping stone to helping you get there. It isn't going to be everything, be all and end all. However, it is a vital step in the right direction. Remember that if you do things the right way, you can expect the right results. Let's dive in.
+
+Starting with some terminology, there's a few things we need to make sure you guys are aware or know what they mean as I might be referring to them throughout the module. A trending market, price action is going to be a consistent and sustained price movement in a particular direction over time, indicating a clear trend in one direction or or another. Volatility of price action or simply volatility refers to degree of variation in the price action or a financial asset over time. In the constant context of price action, it measures how much and how quickly prices change. High volatility indicates rapid and significant price movements, while low volatility suggests relatively stable and gradual price changes over time.
+
+Momentum is the rate of change of the price of an asset. It reflects the strength and speed of price movements. Positive momentum indicates upward price momentum, while negative momentum indicates a downward price momentum, or a change. Corrective market price action. This will be a temporary countertrend price movements within a broader trend, often seen as retracements or pullbacks.
+
+We'll talk about the Fibonacci sequence today. The Fibonacci sequence is a mathematical sequence of numbers where each number is the sum of the 2 preceding ones, typically starting with 0 and 1. In trading, the Fibonacci levels derived from this sequence are used as potential support, resistance levels, pivot points, targets, all of the above, really. An impulse or a market impulse is going to be defined as a strong and rapid price movement in in a specific direction, often at the start of a trend or significant price move, usually making higher lows, higher or lower lows higher lows or higher highs or lower lows, you know, within within the market structure. Impulsive wave, will be a term used to describe strong and rapid price movements within a larger wave or trend.
+
+Impulsive wave usually is going to be, to me, the opposite of a corrective wave. We'll have a few examples for you to kinda be able to to discern those 2. A price pivot is a specific price at which the market changes direction, indicating, either a low point, a higher low in an uptrend, or a lower high in a downtrend. Right? Target, will be a predetermined price level at which a trader typically, will have the plan of taking profits or exiting a trade, helping to spec to set specific trade goals and manage risk of the world to reward ratios.
+
+So these are some things that you're gonna hear me say throughout the modules. If you hear anything else that was not caught here in terms of a definition, please let me know so I can explain, but I think we will manage to catch all of them here in this slide. Taking a look at, Fibonacci's. These are some examples of Fibonacci sequence in nature. Right?
+
+It's not just a mathematical sequence. It's not just an equation. Everything in nature revolves following this same example, the Fibonacci sequence. Anything from the smallest to the largest things that surround us could be as small as the arrangement of, neutrons and atoms, the petals of a flower, something a bit a bit larger such as the the ratio in which the trees are around arranged within a forest or the spiral of a hurricane or as large as how a universe is actually unfolded. Everything follows this exact same ratio.
+
+And the same example applies to the human decision making, not just material things, but our minds work in the same way. This is why we're gonna have some expectations around specific, ratios following the Fibonacci sequence because we expect at certain points following this sequence that the market will turn because people will start making, different decisions around those times. Let's take a deeper look here. Few things that you'll need here. TradingView.
+
+We'll be doing a lot of charting. We're gonna use, some tools that any real charting platform provides. TradingView is my preferred choice, but you can use anything that you're used to so long, you know, it has, Fibonacci retracement tool and decent charting, capabilities. If you don't have TradingView, Jonathan already gave us a link to sign up for that. So take a look at it.
+
+Again, if you're using something different, feel free to stick with it. Once you are in TradingView, this is where you're going to get your Fibonacci tool. It'll be up here in this box. I have it highlighted. It's it's a favorite, but, basically, the Fib retracement tool is what you want to get to.
+
+Once you pull it up and you put it anywhere on your chart, you can you can put it anywhere the way it looks and then double click on the any of these lines to pull up this menu. Right? This will allow you to customize it. You can change the colors of the various levels if you'd like. You can also enable which levels you want to see in which levels you don't care about.
+
+I use a few for different reasons. But for this particular strategy, what we want to focus on is the 0.618 retracement level. And then I want you to change one of these levels to 0 point to negative 0.272. Those are the two levels that we will need for this strategy. Over here, you're gonna see them in, blue.
+
+So it's important that you set up your Fibonacci tool to have those and probably give them a color that stands out to you so you can you can spot them easily. Now let's go over the steps to mastering the FIP Quickwin. As always, if you have seen any of our modules thus far, you'll see, you know, that we'll go into it step by step, make sure that we explain everything, break it down for you, and then we have a practice project for you to master it yourself. We'll start with making sense of our surroundings. Okay?
+
+Your first goal here is to understand the market and the way the way the market moves, the way in which price action moves, which is going to be in waves and impulses. Think of it like the temperature. Within a year, you will have hotter periods and colder periods. They're different in every season. When you zoom in and look at just one day instead of 1 year, on a shorter time period, you will have hotter and colder times within a day itself, whether it's the day or night or, you know, certain hours of the day.
+
+Markets are the same, and this is the basis of price action. What we like to say is that markets are fractal. So whether you look from up high at the higher time frames or really up close in the lower time frames, price action looks very similar. They always move in waves. What that means, they'll go up for a period of time, and then they'll go down for a period of time.
+
+This will happen over various time periods. Right? Again, both when you're looking at a higher time frame or lower time frame. A little bit more detail here. Markets move in impulses and waves and are fractal in nature.
+
+I'll show you some examples of this in a second. What we need to determine, which one is it? That's gonna be our goal for this particular step. If the market is moving, with a lot of force and momentum making new highs or new lows and we're able to connect the pivot points in the price section, then this is going to be, an impulse or an higher. If we look at the series of impulse, it would be it would be a trend.
+
+If the market moves in a similar direction consisting of multiple impulses and continues to make higher and high higher and higher highs or lower and lower lows consecutively, then this is what we'll consider a wave. It consists of at least 3 impulses. If there's a persistent move in the market where price continues to move a specific direction for a long period of time, then there's a market trend, which is also a wave if you look at a higher time frame. It gets a little bit confusing, I guess, without examples, but bear with me for just a moment. When you're deciding on, if the price has continuous for long enough, keep in mind that a trend in a short time frame or a low time frame could take anywhere from a few minutes to a few hours, whether where if you look at a higher time frame, you'd be looking at hours, days, and even months, unfortunately within a specific trend.
+
+It is all relative to whatever time frame you're referring to. But the idea is that you'll have multiple waves of higher highs and higher lows for an uptrend and multiple waves of lower lows and lower, lower lows and lower highs for a downtrend. A last thing before we get to some examples here, guys. If the market price action looks and behaves sim the the market price action looks and behaves similar no matter which time frame you're looking at. This is the concept of the fractal nature of the market.
+
+The point here is that this concept as well as the rules that we're gonna have, around price action are transferable over multiple time frames. Principle is the same no whether no matter whether you're looking at a 5 minute chart or a daily chart. It doesn't matter. Price action looks the same. The only difference is that on the higher time frames, the waves are bigger, more robust, and more consistent.
+
+Right? We all know that institutions can manipulate markets, especially forex markets, which happens much easier on a lower time frame than it does in a, in the bigger time frames. Like, it takes a lot more for them to move the market on the daily chart significantly than it takes for them to move it on the 1 minute chart, for example. So all of this to say is more consistent there's more consistency consistency when it comes to, the higher time frames. Alright.
+
+I got ahead of myself. So few examples. Right? You see just regular price action here. For in terms of waves, right, we can say that this is a wave here.
+
+This is another one. This is another one, and then this is another one. Right? Each pivot point, if we connect them, these will be various ways. However, if we consider a higher time frame, and I haven't even told you what the time frame this is, But if we zoom out a little bit on a higher time frame, this whole thing could be one wave, and this would be another.
+
+Right? All of this to say is to give you an example of the fractal nature of the market. Depends on how far off you look, things are gonna start looking a little bit different, but they behave in the exact same way. For example, if we consider just this wave, right, all the way from top to bottom, within, we see a couple several, several different waves. If we zoom in in a smaller time frame, each of these waves will have waves within waves of its own.
+
+Right? I just want you to keep that on the back of your mind because the strategy that we're going to use can be applied to many different time frames. The principles are the same. So you want to always keep in mind that markets are fractal. The the concepts that we'll be teaching work on any time frame, and that's true for almost every strategy.
+
+But with higher time frames comes a little bit more consistency, and that's important to keep in mind. In terms of defining and giving you an example of what an impulsive wave looks like versus a a corrective wave, for an impulsive wave, we want to see some strong momentum. Right? Fast and quick move that covers a lot of ground, usually making new highs or new lows. Right?
+
+All of these are relatively fast. The examples for a corrective, wave or corrective price action will be the opposite. And usually after each impulsive wave comes a corrective wave. Those will be slower, meaning the price action will be choppier, and it will take more time to cover similar or less of a distance. Right?
+
+So we had the impulsive wave here, and then the corrective wave was took took more time. Right? If this was, let's say, 10 bars, this one is going to be 15 or more, and it covered less ground. Right? This is the range of our impulsive wave.
+
+The corrective wave covered maybe 2 thirds of that only. Same here. We have a fast wave to the downside and a corrective price action to the upside. Typically, this is the definition of a trend. You want to see impulses in the direction of the trend, and then you you're going to see, corrective price action in the opposite direction.
+
+Each of this, again, is a wave on its own. And if you look if you zoom in and look closer in, you're going to see waves within the specific waves itself. And if you zoom out, the opposite is also true. If we look at the higher time frame, then all of this wave from here to here might look as, you know, one specific wave or even one bar if you zoom out high enough. So you see that this is a 4 hour chart.
+
+Right? So if we zoom into 1 hour or 15 minutes, we're gonna see a lot more detail on all of this price action. But if we go to the weekly, this whole thing might be just one bar. Right? So, again, the only the only message here is keep in mind that markets are fractal.
+
+The the knowledge that you have is not tied to any specific time frame. They're transferable over whatever it is that you're looking at. Alright. This was to give us a basic understanding of what market structures look like and how to read them. Now after we understand the basics of the price action, we need to learn how to really take advantage of that.
+
+Your next goal is to understand and not just how the markets move, but the direction in which the market might move next. In order to make sense of a map, you need a compass a compass. This will tell you whether you're going north, south, east, or west. When using this strategy, your compass will be the point where the market wave ends and another one begins. So how do we figure this out?
+
+Apologies. 1st, you must know that, every wave, every trend starts and ends with an impulse or an impulsive wave. So we're gonna look for strong price movements leading to new highs in an uptrend or new lows in a downtrend. We're going to use trend lines to connect the important price pivots within a trend. So if we're trending higher, we're going to connect the higher lows for an uptrend.
+
+If we're trending lower, we're going to connect the lower highs, for a downtrend. The price pivot is where the market turns around. So you're just going to be connecting the highs. We'll see a few examples in a second. Watch for an impulsive wave that breaks through an existing trend line and makes new pivot higher or lower against the existing trend.
+
+This is going to be how we determine a trend or a wave to be ending. This is important because trend lines, in this the way in which I use them, are not going to be something you will trade based on. They're simply our indications, our road signs becoming next. Okay. So we don't train the breakouts or, you know, the balances of trends and such, other things.
+
+We'll simply use them to to navigate. That's all. Recognize when recognizing when a wave or a trend ends, often signals the start of a corrective wave or a new trend in the opposite direction. This is important because this is the concept we'll be building upon. So in our pre previous example, right, if we consider each of this being its own wave, every time a trend broke, we would have expected the new trend to begin, right, or as move in the opposite direction to begin.
+
+This is true for all of them. Whether you're looking at the specific waves that I am kind of, separating right now or you use using the example of this big wave or a higher time frame, it doesn't matter. Once we have, confident impulse breaking through and pushing in the opposite direction, we expect that, a new trend or a new wave is starting. This is how we're going to discern this going forward. And then the same thing is true for our next wave.
+
+Right? Once we break this, we expect to move lower. Once we break this, we expect to move higher and so forth. We're not going to be counting waves or doing anything like that. We're simply going to be using basic trend lines by connecting the highs or the the higher the the lower highs in a downtrend or the higher lows in an uptrend to make sense of where the market might be going next.
+
+Now important thing here is you're always going to draw your trend lines on the right hand side of price action. So if we're going lower, so if we have a downtrend, your trend line will always going to be on the top. So we're never going to put the trend line on the bottom. We don't care about channels and such. We're not going to be trading any of these balances.
+
+There are plenty of strategies that do that, but this is not what we'll be learning today. The only thing we care about is making sure that we understand when this particular wave to the downside might be ending. So what we want to do is connect the highs in a downtrend or connect the lows in an uptrend so that we know when the market potentially might be breaking and moving lower again. That's all we're doing. And in terms of how you place those those those trend lines, to me, I try to connect as many of the pivot points as possible.
+
+If we have examples such as this one where the trend was broken, but then price actually immediately retraces back into the range, then I consider this to be just, I don't know, some news events driven volatility, whatever. I don't consider the trend violated. I only consider it broken when we have significant price actions, strong impulse pushing away from the existing trend and making, you know, higher highs. This might have been considered, I might have considered a good example because we did make a higher high against the existing trend, and we see that the market shifted shortly after. So but but something like this, for example, would not, in my mind, constitute a breakout.
+
+Right? So keep that in mind. However, we're not trading breakouts, so you're gonna have time to decide one way or the other. Here's a few other examples of how we would look at trends. Again, we're simply trying to connect as many of these pivot points as possible, and we look for a confident breakout before we consider this wave over.
+
+This is an example for the smaller waves as well. Now we understand how market moves. We understand how to mark the ending structures of waves when one wave when one wave ends and another begins. But so what? We don't profit by just looking at the chart, right?
+
+We don't get paid for that. That's where the quick win the Fibonacci or Fib quick win strategy comes in. Knowing direction alone is not going to be enough. Why? Because if we enter a trade too soon, you're often going to get stopped out in a deeper correction or anything along those lines.
+
+Entering to wait, and your risk will be too high. Your risk to reward ratios are going to be unfavorable, and you're likely not going to be profitable doing that over a long period of time. Each of these elements can break a trading strategy. So this is exactly what we're trying to avoid. How do we do this?
+
+By implementing specific rules of how do we execute this trading strategy. Now we are going to wait for a wave or trend to be broken just as we saw earlier, and we are going to look for a new high or low to be formed against the existing trend. Once we have this criteria checked, we need to make sure that the impulse that breaks that trend line also creates a new high or low. Our goal is to trade the next wave. To do this, we need to clearly identify when, the wave has ended, just as we saw examples of earlier.
+
+How do we do this? 1st, connect the pivot points of the current market wave by a trend line. Then you must wait until the trend line is broken through by a market impulse. When this happens, make sure that the impulse creates new highs or lows after breaking through the trend line. Please note that not a single candlesticks or even 1 or 2 don't cans constitute a valid break of trend line.
+
+We want to make sure that we form higher highs or lower lows after we do this. Here's a quick example. Right? We have a trend or a wave to the upside, and then we break below the previous swing of price action, multiple candles pushing to the downside. This is an example of what we want.
+
+Just 1 or 2 candles up here is not enough. We want good strong price action in the opposite direction. Again, don't feel like you have to enter a trade. We're not trading the breakout, so there's no rush for you to make a decision as soon as the trend line is broken. You have plenty of time.
+
+The next phase of this trading strategy is to wait for a retracement. So we must wait for the initial impulse or wave to retrace to the 0.618 Fibonacci level. We again, we don't trade the breakout. Our goal is to trade the next wave for that. And to be able to take that trade, we need to wait for a proper retracement of the initial impulse.
+
+So how do we do this? We wait for the initial impulse to complete and the price to start correcting. Then we're going to use our Fibonacci retracement tool and mark, the initial impulse so that we know exactly where the retracement to 0.618 level is. That's what we'll wait for. This this methodology waiting for 61.8 percent of the initial move to be retraced gives us an indication that a significant portion of the initial impulse has been corrected, and the price is ready now to resume, in a trending mode.
+
+So we are we are then confident that we might be looking at the next possible move, higher or lower, based on that initial impulse. By waiting for this retracement, we increase the odds that we won't enter the trade too early and then be caught in a deeper pullback. This also provides us with a favorable risk to reward ratio on our trades, which is very important for consistency. What that looks like is that similar that's an example from earlier. We're going to use our Fibonacci tool, right, all the way from up here where the impulse to downside began to down here where it ended.
+
+And we're going to wait for the price to retrace to the 6 0.618 or 61.8%. It's as simple as that. This is why I'm saying there's no need to rush. We don't need to make decisions as the trend line is being broken. We need to wait for these impulse to the downside to complete and for price to start correcting so that we can actually use our Fibonacci tool.
+
+Because if this continues to push to the downside, we don't know where our Fibonacci tool should be placed. Right? We're just gonna keep moving it as the price continues to drive until we see a move in the opposite direction, which indicates that the first impulse has now impulse has now ended. I'll take a look in a few more examples. Don't worry.
+
+Let's just go through the specifics of the trade. Once we have retraced back to the 0.618%, our next goal is to trade in the direction of the initial impulse. So how do we do this? We're going to place a stop loss behind the initial pivot, or this is where our Fibonacci tool origination point is, we're going to use 1% risk to reward. And as you're gonna learn later on, if you're trading pro form accounts, you want to you want to risk less than 1%.
+
+Half a percent or even quarter of a percent is acceptable. There is no need to to risk too much of your account if your ultimate drawdown is only 5 or 10%. Our target is going to be the 0.272 Fibonacci level. Don't be fooled by the negative sign. We're talking retracement.
+
+So negative number here means we're looking at a move forming a newer or higher high or a lower low. What that looks like in in action is going to be just this. Our price, our stop loss is going to be behind the pivot point where our Fibonacci tool originated, and our target is going to be down here, which is the 0 the, minus 0.272%. This is going to be our initial trade. Those trades are almost always going to be more than 2 to 1 risk to reward, sometimes even higher.
+
+So you're always going to have that favorable risk reward ratio doing this. Let's go ahead and take a look at a few more examples. One quick note, guys. It's important to understand that this even though this strategy can be applied on any time frame, the higher time frames frames will give you much higher consistency. Remember, markets are fractal.
+
+Right? The concept is that we're gonna learn using this strategy doesn't don't have anything to do with time frames. So you can trade this on any time frame. I don't recommend going below 15 minutes. It's quite chaotic down there.
+
+But 15 minutes and an hour is fine. 4 hour and daily charts will give you amazing consistency doing this. So some guidelines to help you with this. Look at higher time frames first, the daily and the higher and the the 4 hour for these setups will be very reliable, and consistency will be very high. The stop loss levels and the target levels are gonna be significant here, And the trades will take quite some time to complete.
+
+You're gonna be holding swing trades for a few days often. So it's important to understand that ahead of time. For smaller time frames, price action can be a bit more random here, so your consistency might not be as great, but it should still be quite positive. Your stop loss and profit levels here are going to be much closer and trades will be held for just a few hours usually or, you know, a day or 2. Please note that when trading higher time frames, keep your risk in mind and don't over risk.
+
+If you're trading pro form accounts especially, you don't wanna be holding too many trades at once especially if the pairs are correlated. Let's take a look at a few examples. This was the one that we already looked at. So this was our initial wave, the break of the trend line. We wait for the retracement of the initial impulse up to this 0.618, the Fibonacci level.
+
+We put our stop loss up behind the previous swing high, and we target the minus 0.272 level. And then we simply wait. It's as simple as that. I mean, I wouldn't say it's simple. Right?
+
+Zach always tells me never say that. So it's not simple. But if you follow the rules, there is nothing else you need to be doing here. You simply wait for the price to to reach your new target. Another example in the opposite direction, this is our trend line.
+
+We have a break of the trend line, new highs being formed. Right? The previous swing high was here. We break through it, and then we wait for our retracement. 0 sick 0.618.
+
+We enter our trade, and we wait for the price to, to get to our level. A pound dollar example, same concept. Right? We're breaking the trend line, significant impulse with a lot of momentum, making higher highs. We wait for our pullback.
+
+This pullback even a little hot, this pullback even a little bit more than that. It doesn't matter. Our stop loss is going to be behind the previous swing, and we target, the negative 2.72 level. Another example, up into the pound. Similar concept.
+
+Right? We wait for the break of trend line. We wait for that impulse to unfold. We measure the retracement on the way back, and we enter the trade up at the 618 level. We target down below minus 272, and we wait for our trade to unfold.
+
+I think that's the last example I had for you, and I wanted to show you how some of these things kind of can be put together in a higher time frame. Right? So the last few examples were all the pound. And if you this is still 4 hourly here, but you could also see that on the daily chart. We have multiple waves here.
+
+Right? So instead of putting our Fib here on this particular wave, now we are looking at this wave as a whole. Actually, all the way down from here. Right? And when we we look at the Fibonacci retracement up here, we do the same thing.
+
+We wait for the price to retrace to the 6.18 level. We put our trade, and we we simply wait. This is why I wanted to drill the idea that markets are fractal in your head. Right? Because you could be trading the smaller waves.
+
+Right? And you could be trading the higher the bigger waves on the higher time frames too. The last three examples of the pound happened all in that screen, one after the other. And if you zoom in on any of these waves, you might see other setups too. It's important to to understand that it can happen on a smaller time frame, in the smaller wave, or on the higher time frame in some of those bigger waves.
+
+The principle is the same. The methodology is the same. It's just a matter of which time frame you're looking at and how long you expect to to hold this trade. Yes. This took quite a bit of time for the bigger move, but it was a significant move and probably pretty, pretty profitable.
+
+So let's summarize the rules of the quick, the 5th quick win strategy. First things first, we're going to, we're going to look for potential trades. To do this, we're gonna be tracking the market waves and waiting for the nth of 1. We know how to identify it, by the break of a trend line. And when this happens, when an impulse breaks through an existing trend line, we're going to identify this wave as ended.
+
+We we want to make sure that that same impulse that breaks the trend line also creates a new high or low against the existing trend. Our next goal is to wait for that initial impulse to retrace down to the 0.618 Fibonacci level. This is where we can enter a trade in the direction of the initial impulse, just as we saw examples of earlier. Our stop loss is going to be behind the initial pivot or the origination of our Fibonacci retracement. We're going to risk 1% or less for a ProForm account, and we'll target the 0.272 Fibonacci level.
+
+Now you can trade this strategy in having different targets too. If you don't want to necessarily wait for a higher high or lower low to be formed, you can simply look for 1 to 1 or 2 to 1 risk to reward. The 1 to 1 is going to be extremely, extremely consistent. You're just gonna be, you know, taking, smaller trades. The 221 or the 0.272 levels are going to be still very consistent.
+
+It'll just take you a little bit longer. And every now and then, specifically for the 0.72 level, you're gonna have resistance around the previous high or low swing. So this is something you need to get used to waiting through. If you're not comfortable doing that or you don't want to stay in trades this long, simply target 1 to 1 or 2 to 1 reward to risk. It's all all acceptable in terms of trading this this strategy.
+
+Remember that this particular trading strategy can be executed on any time frame, preferably above the 15 minutes, but the higher time frames will bring higher consistency. Let's take a look at this together. We have a little bit of time, so I'll pull up a chart. And let's take a look at, for example, what do we wanna see? Some higher volatility.
+
+Let's look at the daily chart. I've done something up here. Alright. So this is 2020. Let's start somewhere up here.
+
+I'll just pick a random spot just to to illustrate, the concept. Right? But for every impulse, we'll start with this peak here. We're going to wait for a break of the trend line. Right?
+
+So if this is our trend line here or even here, once it was broken I'll stick to the daily, but, you know, obviously, if we want to zoom in, we can just go to 4 hourly. I just want to get to a few examples, and sticking at the daily will give us multiple quicker. So let me just do this. What we'll do is we're gonna fit this particular impulse. Right?
+
+So price came up from the top, broke the trend line here, and pivoted down below. This particular impulse did not retrace to the 618, so we don't have a valid signal. If we take a look at this one, same same situation. We didn't get a retracement deep enough, so that's not something we can trade. We're going to then wait for the opposite to occur.
+
+Right? So we are going to be if you we're going to be looking for this trend line to be broken. Right? We have the pivots connecting up here, have one touch here, one touch down here. So our trend line is broken somewhere around this level.
+
+We didn't form higher highs here, so we don't necessarily have a setup over here, down below. Over here, perhaps on this wave, we might get our first one. So if we fit this particular impulse, again, not deep enough. Now if I'm looking at the 4 hour chart here, I might get a setup, but I'll stick to the day before for this example. We continue looking, looking, looking.
+
+The next price swing was here, and maybe that's our first example. So this is our trend line here. Right? Let's take a look. We had this wave to the upside.
+
+We broke down here. We formed, you know, this is our previous swing low here, and our next one is down below. So we have a valid break of the trend line and create a lower low now against the previous wave, which was to the upside. So our Fibonacci tool goes over here, and we wait for the price to pull back to the 618, which happened right here. Our trade goes exactly whenever this is hit.
+
+Our stop loss is above the highs, and we target down to 0618. It's a daily chart, so it took a little bit of time, but this is a 300 pip move. Right? Or maybe even a little bit more than that. So it's actually, 700 pip move.
+
+That's why I wanted to look at the end. It'll give us a lot of examples. So that's that's how you execute this. Again, this is the daily chart, but it's it's transferable for any any time frame. Let's look at this wave.
+
+Right? If you didn't take this trade, this was our wave to the upside. It was broken down here. We have a lower low created. So what we want is to fib this impulse, wait for a retracement down up to the 618, which happened here.
+
+Our stop loss goes above the highs. Our target is going to be below down here. Pretty pretty simple when you get the hang of it. This is literally all you're gonna be doing for this strategy. You're going to be waiting for a break of a trend line for the new impulse to start.
+
+Once the impulse is completed and the price retrace, you put your Fibonacci retracement, and you wait for the 618. Your stop loss is above the high, your target to 0.272. Over and over every time this happens, you just keep doing this. Probably all of these impulses will give you an opportunity. Right?
+
+And you can see once you have a trend how the same thing happens over and over. Price makes lower. Low retraces back to the 618. Drives lower. Right?
+
+If I do this one, didn't didn't quite reach it, unfortunately. But I'm hoping that this gives you a good good example of of the concept. And it doesn't necessarily only happen in in trending markets. K? You can do this back and forth.
+
+If I zoom into these waves, right, for example let's take a look at this one right here. Right? We broke out of this particular wave to the upside then correct it to the 618. So our trade would be right here on this particular impulse even though we're taking a trend, a trade countertrend. It's it's very quick to capture momentum because even though on a long term perspective, we're turning to the downside, on the 4 hourly, this is, you know, look at that.
+
+This is a whole month worth of price action where we're trending to the upside. So if I zoom in and look at the 4 hourly time frame, I could even probably have a setup right here whenever we break out of this correction. Let's see. This was our impulse. Well, we didn't quite get it, but, you get the idea.
+
+It doesn't matter. It's not necessarily something that you need to be, you know, evaluating high time frames and align with that. It's just every time that the market breaks away from an impulse, you do your Fibonacci tool. You do you fib your initial impulse, and you look for your setups at the 618 targeting the highs. Oops.
+
+This is the wrong direction. If you're looking at higher time frames, the 4 hourly, the daily, you can expect to hold these trades for quite some time. If you look at the smaller time frames, it should be much quicker, especially on volatile pairs like yam pairs and such. Oops. This is all the way up here.
+
+But by and large, this is going to be give this will give you a lot of consistency and, very favorable risk to reward whether you take, the 0 point 272 or you just stick to 221 or 121, all of these things will give you favorable risk reward and favorable consistency over time sticking to this strategy. Alright. We can take a look exam a bit more examples later if we have some time. Let's make sure that we complete our presentation. So make sure you really internalize each of these steps, and you practice them until you feel comfortable with each step.
+
+We're going to get the holistic experience of, everything you're learning about the quick FABI win and how it fits together in the bigger picture. We'll have a practice project actually, 3 practice projects for you to really break down and internalize each of the concepts that go into this module. But before that, let's take, a step back for a moment and get things in perspective. The reason you're here and you're started learning, what I have to say is you want to get funded. Right?
+
+And getting funded is your priority, which I understand. But getting funded is only your first getting funded is only your first step. Right? It's not or maybe maybe I should say it's your goal, but it is not your first step or priority. This will come as long as you have the right knowledge, you take the right steps, you build the right foundation in your trading.
+
+The quick win strategies that I teach and, the other educators teach in the academy are the vital steps to mastering a hiring trading strategy that can be used when trading within a prop firm environment or whenever you're trading your own account. Think of it like this. Just because someone learns how to start a car and drive a 100 meters in a straight line or in a parking lot, doesn't mean that they're ready to drive on the highway or within the the city. With that in mind, let's let's get some perspective and look at the steps that you will need to focus on moving forward. So how does this strategy fit in the bigger picture?
+
+Part 1 is going to be for you to get consistent with quick win strategies. This is where you are today. Whether you're talking about this particular strategy or, you know, the strategies that Simon, said or Alex did. It doesn't matter. That can all be applied.
+
+It's it's about mastering 1 or 2, whatever fits better with you as a trader. So this will be, your first priority. Once you've got these initial strategies dialed in, then your next step is to go through the wider method of trading within a platform, how to evaluate funds, and really internalize the Fund to Trader curriculum. Then you'll focus on identifying, choosing, and passing the right funded challenge for you with the right prop firm. Once you're up and running and funded, you will focus on maintaining and scaling your account, growing the capital you manage, and use that that money to increase the amount of your net worth, to increase the size of your personal account or your investment account, however you, you set that up.
+
+This is what has been laid out for you in a student progression plan. So make sure that you are familiar with that content concept because it's something we want you to live by. As you can see, we're focusing on getting you your strategy dialed in first. This is your foundation, and the rest will follow later. But don't worry about, you know, the next round now.
+
+Focus on this one first. What you have learned in this module is one of the strategies that I use when trading with pro firms. I trade quite a few, and you'll get introduced to all of them as you go through the curriculum. Your goal right now is not to worry about getting funded or the other strategies, but rather to focus on this one and make sure that you master it. Imagine this is one step on the ladder that will lead you to getting funded.
+
+Get each step right or the fall will be quite sudden. Now the for the quick win, the the for the trader, a 5th quick win, wow, that's a a mouthful, have its challenges. As with everything new we learn, there will be struggles and hurdles to overcome. There are 2 groups of challenges that you will face. 1 will be focused on the specific strategy that we're speaking about today, and the second will be on how we approach getting funded on a wider level.
+
+Let's discuss the the Fund A Trader quick win strategy first. Reading price action, if you're new to this, will be a struggle at first. It'll look very chaotic, and it'll take some time to get used to. Marking trend lines on your charts will take practice as well, and you might hesitate to decide, you know, where exactly to place it, which pivot is valid, whether it was broken or not. Fibonacci sequence.
+
+I mean, really? You came here to do math? It's not everybody's forte. Right? Retracements sometimes might appear too sharp and sudden, and you might hesitate to execute because of this.
+
+Once you profits on your trades, you might be tempted to close trades early. Book those profits, which will overall reduce your risk to reward ratio. When trade is going against you, you might do the opposite. It will stress you out and you might want to close it before hitting a stop loss or you might be tempted to, move your stop loss further out to prevent to prevent it from being hit. You just need to keep working at this, guys.
+
+It's it's all normal. It all takes practice. And the more you work on that, the more confident you'll get in executing your trades and the easier it will be to spot the setup. So even if it appears a little bit hard at first, just stick with it. Trust me.
+
+It gets easier quick. Looking at the 5 and at the at a wider level, like, the challenges you'll face, again, your goal will be to get funded eventually. However, having a high lean strategy is just one piece of the puzzle. Don't be tricked by thinking that just because you learned one strategy, whether it's this one or any other educator strategy, you can now go ahead and get funded. You might be tempted to to go trade in a live account or just start doing challenges right away.
+
+You may think that, oh, this is simple. I don't have to practice this. I get it. Right? Then you can try and run before you can really work.
+
+I hope that we end up working together over the long term to help you achieve your financial goals and shifting to a place of getting funded. However, your first goal is this quick win strategy. Focus on getting each step doubted properly, and don't try to run before you can walk. Later in the curriculum, you'll see and, I'll talk about the process of getting funded. However, you can't do that if you're not consistent with a strategy that works for you.
+
+This is your step 1. So how do we build consistency with this strategy, first of all? Focus on 1 or 2 pairs. Start marking everything that you have learned on your chart. This will allow you to build, consistency and practice in more measurable scope or manageable scope, I should say.
+
+When you get the hang of it, add some more pairs and so forth. Start by backtesting, on your charts in multiple time frames. Do the daily, the 4 hourly, the 1 hourly, and keep track of market waves currently unfolding on each time frame. Every time a wave ends, place a fit retracement on the new impulse. Wait to see if that retracement reaches the 0.618%, then ask yourselves, did did it happen?
+
+Did was that level hit? If yes, then mark valid entries and track results. This will be, you know, your confidence as you look at this strategy. It'll help you execute when the time comes without hesitation. The more you do this, the better you'll get at it.
+
+Once you've done enough of backtesting and you're comfortable with the concepts and the strategy, you can go ahead and trade in your your demo account or a live account and so forth. As you master this, here's the basics, stages of progress you can expect to go through. So as a beginner, it's all gonna be one big mess. You'll struggle to read the price action. You'll be, you won't be confident in saying when the wave is over, and you won't be sure where to look for your fibs.
+
+But slowly but surely, the more you do this, it's gonna start to click. You'll mark waves on your chart with more confidence. You understand your FIPs and clearly see the levels in which you can trade from. You might still have hesitate sometimes. You might miss entries.
+
+You know, you might be tempted to enter late or exit early. It's all normal. But the more you do it, the better you'll get at it. Finally, once you've truly mastered this, it feels like you're seeing the future. You see it all clearly laid out in front of you.
+
+The waves, the trends, the retracements, the setups. You understand it, then, you know, it's like it's the back of your hand. You execute with confidence, breaking your profits, and look forward to the next setup. Quick summary of everything that we've talked about today. If you feel like that something isn't clear, go back and study it again.
+
+Don't hesitate to ask questions, and don't move forward, with any other modules until you've truly understood and mastered this one. Here are the key points that, we need to remember today. Price action and trending, moves price action and train moves in waves resembling the factual nature of the market. Understanding the direction of the market movement is crucial. Waves start and end with an impulsive movement.
+
+Use trend lines to connect price pivots in uptrends and downtrends. Look for strong price movements leading to new highs and lows to indicate the start and end of a wave. After a a wave ends, after a wave or trend ends, a corrective wave or new trend often begins usually in the opposite direction. Waiting for price to retrace to the 618 Fibonacci level increases the trade accuracy. Enter trades in the direction of the initial impulse.
+
+Set your stop loss behind the initial pivot where your Fibonacci, retracement tool originated, and consider, starting with a 1% of your account. If you're trading pro form account, consider risking less than that. Always, keep in mind that the higher time frames, will give you higher consistency in trading. Now it's time for you to practice this. We have 3 practice projects for you, and I will pull the first one.
+
+Practice project a on this quick win module is going to be for you to demonstrate your understanding of how to read price action, clearly identify market waves, where they end by capturing 10 examples in multiple time frames. This shouldn't take you too long, just a few hours. You will need TradingView or a different charting platform. The steps you want to follow is going to be open up TradingView or your charting platform, pull up any chart or any FX pair, Clearly identify a market wave consisting of multiple impulses and the end of the wave as explained in this module. Right?
+
+You're gonna wait for that impulse that breaks through a existing trend line. Capture screenshot for your end projects and repeat this until you have 2 examples and make sure that you have examples on the daily, 4 hourly, and hourly chart. When finished, post your project in the legacy student Hangout Room with the title, the Funded Trader Fit Quick Win project, or maybe we'll rename this to Danny's Quick Win or Fit Quick Win, whatever, but stick to project a. Right? We want to make sure that we have all 3 projects for you.
+
+So the next project is going to be project b, which is going to be, to demonstrate your understanding of how to use the Fibonacci retracement tool by giving ten examples of you using it on your charts. Again, this will only take a few hours. The steps are the same. You're gonna pull up a chart in your trading view or any other charting platform. Any forex pair is acceptable.
+
+Identify a market wave in the direct in in either direction and apply the Fibonacci tool to it. Mark any significant reactions around 618 level and capture a screenshot. Do this 10 times. Make sure that you give examples for daily, for hourly, and 1 hour chart. You're going to make a post when you're ready with Dennis practice project b.
+
+And 3rd, and the one that you are going to have the most fun with, I hope, is going to be for you to actually flag all valid 5th quick win trades within calendar year 2022 on euro pound using the 4 hour time frame. This will take you quite some time, so several hours at least. I mean, it just depends on how quickly you do it, but it can take you up to several hours. Feel free to spread it out over a few days. You need TradingView or another charting platform.
+
+What you want to do is open TradingView, pull up the 4 hour chart, for your pound, and go back to December 2021. Engage the replay feature here. We want you to do this blind without, you know, cheating and looking forward. Using the rules of the quick, the 5th quick win, replay the data forward and execute all valid setups that you can find for year 2022. For this purposes of this exercise, because you will have an answer sheet with it, make sure that you stick to the 1 hour the 4 hour time frame.
+
+You are only allowed to be in 1 trade at a time. Okay? If price is within 10 pips or your fib level or your entry exit cover, consider it hit. Take screenshots of your trades for your final project. And once you're done with the entire year, tally up your trades.
+
+How many trades did you take? What dates were your executions on? How many winners versus losers? And the total numbers of pips for the year. When finished, you're going to try to make a post in the student legacy program.
+
+Sorry, you guys. My little one is up. Same as before, and you'll share it with your fellow students. And that is all that we had for today. It's actually took quite some time, so apologies, Jonathan.
+
+But I hope you guys had fun, and you look forward to trying this. Stealing from Kurt. Absolutely fibulous. Denis Slav. Really, really appreciate it.
+
+Thank you so much. Really looking forward to to dive into to to the projects. So I guess, folks, let's see your projects up in the community. Get cracking with these fibs. Absolutely wonderful.
+
+Absolutely wonderful. Again, thank you very much, and we'll see you all later on with Sid. Sounds good. Have a good day, guys. Have a great weekend, and I'll see you next week.

@@ -1,0 +1,22 @@
+{
+    "version": "6.1",
+    "oanda": {
+        "practice_api_key": null,
+        "practice_account_id": "",
+        "live_api_key": null,
+        "live_account_id": ""
+    },
+    "paths": {
+        "csv_path": "/home/grct/Forex",
+        "parquet_path": "/home/grct/Forex_Parquet",
+        "model_path": "/mnt2/Trading-Cafe/ML/SNaiman2/ai/trained_models/"
+    },
+    "settings": {
+        "environment": "practice",
+        "ai_enabled": true,
+        "use_parquet": true,
+        "default_timeframe": "1h",
+        "default_bars": 200,
+        "selected_pairs": []
+    }
+}

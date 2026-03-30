@@ -1,7 +1,58 @@
-# Simon Pullen trading system dependencies
+# SID Method Trading System - Core Dependencies
+# ============================================================================
+
+# Data processing
 pandas>=1.5.0
 numpy>=1.23.0
+pyarrow>=12.0.0  # For Parquet support
+
+# Technical analysis
 TA-Lib>=0.4.25
+
+# Visualization
 matplotlib>=3.5.0
-pytz>=2022.0
-pydantic>=1.10.0
+seaborn>=0.12.0
+
+# Machine Learning (CPU)
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+lightgbm>=4.0.0
+
+# GPU Acceleration (optional)
+cupy-cuda11x>=12.0.0  # For NVIDIA GPUs - adjust CUDA version as needed
+cuml-cu11>=23.08.00   # For GPU Random Forest - requires CUDA 11
+
+# Deep Learning (optional)
+tensorflow>=2.13.0
+torch>=2.0.0
+
+# API and Networking
+requests>=2.31.0
+websocket-client>=1.5.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+loguru>=0.7.0
+tqdm>=4.65.0
+
+# Timezone handling
+pytz>=2023.3
+
+# For sentiment analysis (optional)
+textblob>=0.17.0
+vaderSentiment>=3.3.2
+
+# For backtesting and analysis
+plotly>=5.15.0
+streamlit>=1.25.0
+
+# For database (optional)
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0  # For PostgreSQL
+
+# Development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0

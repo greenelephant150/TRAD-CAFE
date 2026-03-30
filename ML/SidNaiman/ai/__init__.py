@@ -1,18 +1,34 @@
 """
-AI Augmentation Module for Simon Pullen Trading System
+AI Module for SID Method Trading System
 """
-from .ai_accelerator import AIAccelerator
-from .feature_engineering import FeatureEngineer
-from .signal_predictor import SignalPredictor
-from .model_trainer import ModelTrainer
-from .model_manager import ModelManager
-from .training_pipeline import TrainingPipeline
+
+from .feature_engineering import FeatureEngineer, FeatureEngineeringConfig
+from .model_trainer import ModelTrainer, ModelTrainingConfig
+from .signal_predictor import SignalPredictor, SignalPredictorConfig
+from .training_pipeline import TrainingPipeline, TrainingPipelineConfig
+
+# Optional imports (if files exist)
+try:
+    from .ai_accelerator import AIAccelerator
+except ImportError:
+    AIAccelerator = None
+    print("⚠️ ai_accelerator module not found - GPU acceleration disabled")
+
+try:
+    from .gpu_data_loader import GPUDataLoader
+except ImportError:
+    GPUDataLoader = None
+    print("⚠️ gpu_data_loader module not found")
 
 __all__ = [
-    'AIAccelerator', 
-    'FeatureEngineer', 
-    'SignalPredictor', 
+    'FeatureEngineer',
+    'FeatureEngineeringConfig',
     'ModelTrainer',
-    'ModelManager',
-    'TrainingPipeline'
+    'ModelTrainingConfig',
+    'SignalPredictor',
+    'SignalPredictorConfig',
+    'TrainingPipeline',
+    'TrainingPipelineConfig',
+    'AIAccelerator',
+    'GPUDataLoader'
 ]
